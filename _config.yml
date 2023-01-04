@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Chris Davis
+name: Ajay Srivastava
 
 # Short bio or description (displayed in the header)
 description: Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/6734176?s=460&v=4
+avatar: https://ajaydevelopr.github.io/assets/img/logo.jpeg
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://avatars2.githubusercontent.com/u/6734176?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: chrisdavis@outlook.com
+  email: ajay8898sri@outlook.com
   facebook:
   flickr:
-  github: chrdavis
+  github: codemec
   instagram:
-  linkedin: christopher-davis-45859a37
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://chrdavis.github.io
+url: http://ajaydevelopr.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/codemec.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
